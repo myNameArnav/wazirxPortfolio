@@ -1,0 +1,94 @@
+{
+    "market": {
+        "btcinr": {
+            "balance": "0.03",
+            "avgPrice": "300000",
+            "transactions": {
+                "buy": [
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    },
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    }
+                ],
+                "sell": [
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    },
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    }
+                ]
+            }
+        },
+        "ethinr": {
+            "balance": "0.3",
+            "avgPrice": "30000",
+            "transactions": {
+                "buy": [
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    },
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    }
+                ],
+                "sell": [
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    },
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    }
+                ]
+            }
+        },
+        "adainr": {
+            "balance": "300",
+            "avgPrice": "30",
+            "transactions": {
+                "buy": [
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    },
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    }
+                ],
+                "sell": [
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    },
+                    {
+                        "date": "xx",
+                        "price": "xx",
+                        "volume": "xx"
+                    }
+                ]
+            }
+        }
+    }
+}
